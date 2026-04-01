@@ -39,6 +39,7 @@
   z-index: 1000;
   padding: 20px 40px;
   transition: background 0.3s ease;
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
 
